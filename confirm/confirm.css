@@ -8,7 +8,9 @@ src: url('../fontfamily/Samsung\ Sharp\ Sans\ Bold.woff.ttf');
 font-family: apple;
 src: url('../fontfamily/PingFang\ Medium.ttf');  
 }
-
+body {
+    background-color: rgb(231, 231, 231);
+}
 .title {
     font-family: apple;
     font-size: 1.8vw;
